@@ -35,3 +35,4 @@ C:\Users\user\Desktop\Study\CSharp\C#Project\C#Project\bin\Debug\net8.0-windows\
 C:\Users\user\Desktop\Study\CSharp\C#Project\C#Project\obj\Debug\net8.0-windows\C#Project.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\Study\CSharp\C#Project\C#Project\obj\Debug\net8.0-windows\C_Project.Product.resources
 C:\Users\user\Desktop\Study\CSharp\C#Project\C#Project\obj\Debug\net8.0-windows\C#Project.csproj.Up2Date
+C:\Users\user\Desktop\Study\CSharp\C#Project\C#Project\obj\Debug\net8.0-windows\C#Project.sourcelink.json
