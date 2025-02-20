@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\c#project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|c:\\users\\user\\desktop\\study\\csharp\\c#project\\c#project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D6E1-B01A-4A77-B9F3-78EFADCE9CFD}|C#Project\\C#Project.csproj|solutionrelative:c#project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Product.cs",
+              "RelativeDocumentMoniker": "C#Project\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Product.cs",
+              "RelativeToolTip": "C#Project\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:59:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Product.cs",
+              "RelativeDocumentMoniker": "C#Project\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Product.cs [Design]",
+              "RelativeToolTip": "C#Project\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:50:55.476Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Market.cs",
+              "RelativeDocumentMoniker": "C#Project\\Market.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Market.cs",
+              "RelativeToolTip": "C#Project\\Market.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:49:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "C#Project\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\DatabaseConnection.cs",
+              "RelativeToolTip": "C#Project\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:45:29.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Market.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Market.cs",
+              "RelativeDocumentMoniker": "C#Project\\Market.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Market.cs [Design]",
+              "RelativeToolTip": "C#Project\\Market.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:36:25.476Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Program.cs",
+              "RelativeDocumentMoniker": "C#Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Program.cs",
+              "RelativeToolTip": "C#Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:41:37.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Form1.cs",
+              "RelativeDocumentMoniker": "C#Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Form1.cs",
+              "RelativeToolTip": "C#Project\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:42:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Form1.cs",
+              "RelativeDocumentMoniker": "C#Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\C#Project\\C#Project\\Form1.cs [Design]",
+              "RelativeToolTip": "C#Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:41:14.158Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
