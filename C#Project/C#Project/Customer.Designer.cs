@@ -1,6 +1,6 @@
 ﻿namespace C_Project
 {
-    partial class Product
+    partial class Customer
     {
         /// <summary>
         /// Required designer variable.
@@ -56,7 +56,7 @@
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(662, 72);
-            panel1.TabIndex = 0;
+            panel1.TabIndex = 1;
             // 
             // label1
             // 
@@ -64,9 +64,9 @@
             label1.Font = new Font("Century", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(270, 20);
             label1.Name = "label1";
-            label1.Size = new Size(130, 35);
+            label1.Size = new Size(159, 35);
             label1.TabIndex = 0;
-            label1.Text = "Product";
+            label1.Text = "Customer";
             // 
             // panel2
             // 
@@ -86,7 +86,7 @@
             panel2.Location = new Point(12, 78);
             panel2.Name = "panel2";
             panel2.Size = new Size(638, 252);
-            panel2.TabIndex = 1;
+            panel2.TabIndex = 2;
             // 
             // button4
             // 
@@ -174,9 +174,9 @@
             label5.Font = new Font("Century", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label5.Location = new Point(31, 149);
             label5.Name = "label5";
-            label5.Size = new Size(63, 23);
+            label5.Size = new Size(89, 23);
             label5.TabIndex = 3;
-            label5.Text = "Price:";
+            label5.Text = "Address:";
             // 
             // label4
             // 
@@ -184,9 +184,9 @@
             label4.Font = new Font("Century", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label4.Location = new Point(31, 107);
             label4.Name = "label4";
-            label4.Size = new Size(100, 23);
+            label4.Size = new Size(73, 23);
             label4.TabIndex = 2;
-            label4.Text = "Category:";
+            label4.Text = "Phone:";
             // 
             // label3
             // 
@@ -194,10 +194,9 @@
             label3.Font = new Font("Century", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label3.Location = new Point(31, 67);
             label3.Name = "label3";
-            label3.Size = new Size(143, 23);
+            label3.Size = new Size(161, 23);
             label3.TabIndex = 1;
-            label3.Text = "ProductName:";
-            label3.Click += label3_Click;
+            label3.Text = "CustomerName:";
             // 
             // label2
             // 
@@ -205,20 +204,20 @@
             label2.Font = new Font("Century", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label2.Location = new Point(31, 18);
             label2.Name = "label2";
-            label2.Size = new Size(107, 23);
+            label2.Size = new Size(125, 23);
             label2.TabIndex = 0;
-            label2.Text = "ProductId:";
+            label2.Text = "CustomerId:";
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(12, 358);
+            dataGridView1.Location = new Point(12, 348);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(638, 188);
-            dataGridView1.TabIndex = 2;
+            dataGridView1.TabIndex = 3;
             // 
-            // Product
+            // Customer
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -227,10 +226,10 @@
             Controls.Add(dataGridView1);
             Controls.Add(panel2);
             Controls.Add(panel1);
-            Name = "Product";
+            Name = "Customer";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Product";
-            Load += Product_Load;
+            Text = "Customer";
+            Load += Customer_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panel2.ResumeLayout(false);
@@ -244,6 +243,10 @@
         private Panel panel1;
         private Label label1;
         private Panel panel2;
+        private Button button4;
+        private Button button3;
+        private Button button2;
+        private Button button1;
         private TextBox textBox4;
         private TextBox textBox3;
         private TextBox textBox2;
@@ -253,9 +256,5 @@
         private Label label3;
         private Label label2;
         private DataGridView dataGridView1;
-        private Button button1;
-        private Button button3;
-        private Button button2;
-        private Button button4;
     }
 }

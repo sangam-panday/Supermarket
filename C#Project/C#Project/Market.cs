@@ -22,5 +22,11 @@ namespace C_Project
             Product pt = new Product();
             pt.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Customer ct = new Customer();
+            ct.Show();
+        }
     }
 }
